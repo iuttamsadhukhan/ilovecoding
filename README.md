@@ -1,2 +1,6 @@
 # ilovecoding
 first time testing
+
+Hi all,
+I love coding in foxpro, c, C++, Java, Python..... all in dos mode...
+I want to upgrade myself in windows environment........
